@@ -48,6 +48,7 @@ namespace Upload.Controllers
         {
             //bbbbbbbbbbbb
             //cccccccccccc
+            //dddddddddddd
             var uploads = Path.Combine(Directory.GetCurrentDirectory(),"uploads");
             if (!Directory.Exists(uploads)) Directory.CreateDirectory(uploads);
             if (objfile.file.Length > 0)
