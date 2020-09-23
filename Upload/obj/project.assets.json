@@ -192,11 +192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TestWebAPI Project\\Upload\\Upload\\Upload.csproj",
+      "projectUniqueName": "D:\\TestWebAPI Project\\Upload_Git\\Upload\\Upload.csproj",
       "projectName": "Upload",
-      "projectPath": "D:\\TestWebAPI Project\\Upload\\Upload\\Upload.csproj",
+      "projectPath": "D:\\TestWebAPI Project\\Upload_Git\\Upload\\Upload.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\TestWebAPI Project\\Upload\\Upload\\obj\\",
+      "outputPath": "D:\\TestWebAPI Project\\Upload_Git\\Upload\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -47,6 +47,7 @@ namespace Upload.Controllers
         public void Upload([FromForm] FileUpLoad objfile)
         {
             //bbbbbbbbbbbb
+            //cccccccccccc
             var uploads = Path.Combine(Directory.GetCurrentDirectory(),"uploads");
             if (!Directory.Exists(uploads)) Directory.CreateDirectory(uploads);
             if (objfile.file.Length > 0)
